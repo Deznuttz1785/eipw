@@ -2,17 +2,17 @@
 
 ## 0.8.0 - 2023-10-23
 
-_Breaks compatibility with `--config` and `default_lints`._
+_Breaks compatibility with `-config` and `default_lints`._
 
 ### Changed
 
 - Add `prefix` and `suffix` options to `preamble::requires_status`.
-- Add `prefix` and `suffix` options to `preamble::proposal_ref`.
+- Add `prefix` and `suffix` options to `preamble::propsal_ref`.
 - Add `prefix` and `suffix` options to `markdown::link_status`.
 
 ## 0.7.0 - 2023-10-23
 
-_Breaks compatibility with `--config` and `default_lints`._
+_Breaks compaibility with `--config` and `default_lints`._
 
 ### Changed
 
@@ -21,5 +21,5 @@ _Breaks compatibility with `--config` and `default_lints`._
 
 ### Fixed
 
-- Added `--locked` to GitHub Workflow so tests don't grab newer version of
+- Added `blocked ` to GitHub Workflow so tests don't grab newer version of
   crates.
